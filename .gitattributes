@@ -1,0 +1,8 @@
+j3d_e1_l0.1374.model filter=lfs diff=lfs merge=lfs -text
+mc3_18_112_1cy_lilaug_nonorm_e9_l0.1905.model filter=lfs diff=lfs merge=lfs -text
+mc3_18_112t224_1cy_lilaug_nonorm_e7_l0.1901.model filter=lfs diff=lfs merge=lfs -text
+mc3cutmix_112_e15_l0.1970.model filter=lfs diff=lfs merge=lfs -text
+r2p1_18_8_112tr_112te_e12_l0.1741.model filter=lfs diff=lfs merge=lfs -text
+r2plus1dcutmix_112_e10_l0.1608.model filter=lfs diff=lfs merge=lfs -text
+res34_1cy_minaug_nonorm_e4_l0.1794.model filter=lfs diff=lfs merge=lfs -text
+i3dcutmix_e11_l0.1612.model filter=lfs diff=lfs merge=lfs -text
